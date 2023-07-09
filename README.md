@@ -22,7 +22,7 @@ You can download or clone this repository to use the algorithms in your own code
 
 bash
 Copy code
-git clone [https://github.com/yourgithubusername/yourrepositoryname.git](https://github.com/riahimk/Combinatorial_Inversion.git)
+git clone https://github.com/riahimk/Combinatorial_Inversion.git
 For usage instructions, please refer to the individual documentation in each script file.
 
 Further Research
